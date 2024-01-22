@@ -4,7 +4,7 @@
 <h1> Milhouse </h1>
 
 </p>
-## Sobre Milhouse 
+## Sobre Milhouse <br>
 Un viejo cliente al cual simpre le estamos agradeciendo su confianza y que hoy sigue creyendo, ya que hemos migrado por completo su viejo sistema de PHP y html a Laravel y Bootstraps, Milhouse es un Store de ropa informal juvenil, cituado en San Cristobal provincia de Sta FE, y con sucursal en San Guillermo (misma prov.)  
 
 Cumpliento con todas las funcionalidades de su viejo sistema, hemos creado esta nueva app web para control y administracion de su negocio en el 2024.
@@ -41,9 +41,7 @@ Cumpliento con todas las funcionalidades de su viejo sistema, hemos creado esta 
  
  
 
-## SOBRE ESTE PROYECTO API REST FULL CON LARAVEL 
-
-Se consumio la Libreria SDK Afip, para poder consumir los Web serivices y SOAP de Afip, aun se encuentra en ambiente testing alojada en un VPS de Amazon Web Serices.
+## SOBRE ESTE PROYECTO API REST FULL CON LARAVEL  
 
 - Autenticacion y protenccion de rutas creando un Token con SANCTUM
 - Remover Tokens existentes
